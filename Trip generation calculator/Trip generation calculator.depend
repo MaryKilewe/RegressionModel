@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1532717888 source:c:\users\mary\documents\2. c++projects\trip generation calculator\main.cpp
+	<iostream>
+	<exception>
+	<cstdlib>
+	<cmath>
+
